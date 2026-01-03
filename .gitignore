@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Data (Keep data local, it's too big/messy for git)
+data/
+
+# BUT... We DO need the models folder for the app to work!
+!models/
