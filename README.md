@@ -1,4 +1,5 @@
-# 🛡️ Retention Savior: Predictive Churn Engine
+# 🛡️ # 🛡️ AjayDataLabs: Retention Savior Engine
+### *Professional Churn Prediction System*
 
 ### 🚀 Business Objective
 Customer acquisition costs **5x more** than retention. This engine predicts which customers are about to leave (churn) and explains *exactly why*, enabling retention teams to intervene proactively.
@@ -14,7 +15,7 @@ Customer acquisition costs **5x more** than retention. This engine predicts whic
 A machine learning pipeline built on **XGBoost** and **SMOTE**, deployed via a **Streamlit** dashboard for real-time risk assessment.
 
 #### 📊 Dashboard Preview
-*(Place your dashboard_screenshot.png here)*
+*(C:\Users\HP\Pictures\Screenshots\Screenshot 2026-01-03 163136.png)*
 
 ---
 

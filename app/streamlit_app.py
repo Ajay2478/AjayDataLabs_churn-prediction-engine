@@ -116,7 +116,7 @@ def preprocess_input():
     return input_df
 
 # 5. Dashboard Layout
-st.title("🛡️ Retention Savior Engine")
+st.title("🛡️ AjayDataLabs | Retention Savior")
 st.markdown("### Real-time Customer Churn Prediction")
 
 col1, col2 = st.columns([1, 1])
