@@ -1,4 +1,4 @@
-# 🛡️ # 🛡️ AjayDataLabs: Retention Savior Engine
+# 🛡️ AjayDataLabs: Retention Savior Engine
 ### *Professional Churn Prediction System*
 
 ### 🚀 Business Objective
@@ -13,9 +13,6 @@ Customer acquisition costs **5x more** than retention. This engine predicts whic
 
 ### 🧠 The Solution
 A machine learning pipeline built on **XGBoost** and **SMOTE**, deployed via a **Streamlit** dashboard for real-time risk assessment.
-
-#### 📊 Dashboard Preview
-*(C:\Users\HP\Pictures\Screenshots\Screenshot 2026-01-03 163136.png)*
 
 ---
 
@@ -38,10 +35,3 @@ During the analysis of 7,000+ customers, the model discovered:
 3.  **Tenure Factor:** Churn probability drops significantly after 24 months of tenure.
 
 ---
-
-### 🛠️ How to Run Locally
-
-**1. Clone the repository**
-```bash
-git clone [https://github.com/YourUsername/retention-savior.git](https://github.com/YourUsername/retention-savior.git)
-cd retention-savior
